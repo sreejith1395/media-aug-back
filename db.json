@@ -1,0 +1,62 @@
+{
+  "videos": [
+    {
+      "id": "50",
+      "caption": "Neela Nilave ",
+      "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+      "url": "https://www.youtube.com/embed/TkUTJlIZmQs"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "informative",
+      "allvideos": [
+        {
+          "id": "2",
+          "caption": "Neela Nilave ",
+          "thumbnail": "https://s.saregama.tech/image/c/fw_485/a/62/63/rdx_neela_nilave_ott_1440_1692948070.jpg",
+          "url": "https://www.youtube.com/embed/1F3hm6MfR1k"
+        },
+        {
+          "id": "50",
+          "caption": "Neela Nilave ",
+          "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+          "url": "https://www.youtube.com/embed/TkUTJlIZmQs"
+        },
+        {
+          "id": "2",
+          "caption": "Neela Nilave ",
+          "thumbnail": "https://s.saregama.tech/image/c/fw_485/a/62/63/rdx_neela_nilave_ott_1440_1692948070.jpg",
+          "url": "https://www.youtube.com/embed/1F3hm6MfR1k"
+        },
+        {
+          "id": "50",
+          "caption": "Neela Nilave ",
+          "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+          "url": "https://www.youtube.com/embed/TkUTJlIZmQs"
+        },
+        {
+          "id": "2",
+          "caption": "Neela Nilave ",
+          "thumbnail": "https://s.saregama.tech/image/c/fw_485/a/62/63/rdx_neela_nilave_ott_1440_1692948070.jpg",
+          "url": "https://www.youtube.com/embed/1F3hm6MfR1k"
+        }
+      ]
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": 1,
+      "categoryName": "rdx",
+      "url": "https://www.youtube.com/embed/TkUTJlIZmQs",
+      "date": "27-10-2023"
+    },
+    {
+      "id": "c5ae4201-c912-438a-ad6d-550d589a8651",
+      "categoryName": "Neela Nilave ",
+      "url": "https://www.youtube.com/embed/TkUTJlIZmQs",
+      "date": "2023-12-12T04:48:25.110Z"
+    }
+  ]
+}
